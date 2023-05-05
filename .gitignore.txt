@@ -1,3 +1,6 @@
+# Add empty folder
+*
+
 # Flask-specific files to ignore
 __pycache__/
 *.pyc
