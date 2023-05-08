@@ -19,7 +19,6 @@ Backend:
 cd into folder
 
 venv1\Scripts\activate
-cd venv1
 pip install -r requirement.txt
 python backend_server.py
 
