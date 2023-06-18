@@ -1,4 +1,4 @@
-# Stocks_App
+# Stocks_App  
 Python Flask (async, Pytest testing, Swagger) + React (Jest testing) 
 
 App to get 
@@ -13,7 +13,7 @@ App to get
 9. Admin page
 
 
-project structure:
+project structure:    
 backend:
     -> run.py
     -> config.py
@@ -31,7 +31,7 @@ backend:
         -> and so on 
 
 
-Launch Instructions:
+Launch Instructions:  
 Frontend:
 - cd into folder
 - npm install
