@@ -18,7 +18,7 @@ npm start
 Backend:
 cd into folder
 
-venv1\Scripts\activate
+venv1\Scripts\activate.bat
 pip install -r requirement.txt
 python backend_server.py
 

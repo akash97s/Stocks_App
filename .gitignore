@@ -2,6 +2,7 @@
 # *
 
 # Flask-specific files to ignore
+venv/
 venv1/
 __pycache__/
 *.pyc

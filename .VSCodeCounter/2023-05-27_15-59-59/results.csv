@@ -1,0 +1,23 @@
+"filename", "language", "JSON", "Markdown", "JavaScript", "XML", "CSS", "HTML", "Python", "pip requirements", "comment", "blank", "total"
+"c:\Users\Akash Selvakumar\Documents\GitHub\Stocks_App\README.md", "Markdown", 0, 22, 0, 0, 0, 0, 0, 0, 0, 11, 33
+"c:\Users\Akash Selvakumar\Documents\GitHub\Stocks_App\backend\backend_server.py", "Python", 0, 0, 0, 0, 0, 0, 74, 0, 21, 32, 127
+"c:\Users\Akash Selvakumar\Documents\GitHub\Stocks_App\backend\backup..py", "Python", 0, 0, 0, 0, 0, 0, 76, 0, 49, 36, 161
+"c:\Users\Akash Selvakumar\Documents\GitHub\Stocks_App\backend\requirements.txt", "pip requirements", 0, 0, 0, 0, 0, 0, 0, 39, 0, 1, 40
+"c:\Users\Akash Selvakumar\Documents\GitHub\Stocks_App\backend\tests\test_.py", "Python", 0, 0, 0, 0, 0, 0, 73, 0, 5, 7, 85
+"c:\Users\Akash Selvakumar\Documents\GitHub\Stocks_App\frontend\my-app\README.md", "Markdown", 0, 38, 0, 0, 0, 0, 0, 0, 0, 33, 71
+"c:\Users\Akash Selvakumar\Documents\GitHub\Stocks_App\frontend\my-app\package-lock.json", "JSON", 29867, 0, 0, 0, 0, 0, 0, 0, 0, 1, 29868
+"c:\Users\Akash Selvakumar\Documents\GitHub\Stocks_App\frontend\my-app\package.json", "JSON", 40, 0, 0, 0, 0, 0, 0, 0, 0, 1, 41
+"c:\Users\Akash Selvakumar\Documents\GitHub\Stocks_App\frontend\my-app\public\index.html", "HTML", 0, 0, 0, 0, 0, 20, 0, 0, 23, 1, 44
+"c:\Users\Akash Selvakumar\Documents\GitHub\Stocks_App\frontend\my-app\public\manifest.json", "JSON", 25, 0, 0, 0, 0, 0, 0, 0, 0, 1, 26
+"c:\Users\Akash Selvakumar\Documents\GitHub\Stocks_App\frontend\my-app\src\App.css", "CSS", 0, 0, 0, 0, 30, 0, 0, 0, 2, 4, 36
+"c:\Users\Akash Selvakumar\Documents\GitHub\Stocks_App\frontend\my-app\src\App.js", "JavaScript", 0, 0, 101, 0, 0, 0, 0, 0, 22, 16, 139
+"c:\Users\Akash Selvakumar\Documents\GitHub\Stocks_App\frontend\my-app\src\App.test.js", "JavaScript", 0, 0, 7, 0, 0, 0, 0, 0, 0, 2, 9
+"c:\Users\Akash Selvakumar\Documents\GitHub\Stocks_App\frontend\my-app\src\components\DataTable.js", "JavaScript", 0, 0, 52, 0, 0, 0, 0, 0, 3, 4, 59
+"c:\Users\Akash Selvakumar\Documents\GitHub\Stocks_App\frontend\my-app\src\customHooks\useAxiosGet.js", "JavaScript", 0, 0, 35, 0, 0, 0, 0, 0, 0, 8, 43
+"c:\Users\Akash Selvakumar\Documents\GitHub\Stocks_App\frontend\my-app\src\helper_functions\axiosGet.js", "JavaScript", 0, 0, 25, 0, 0, 0, 0, 0, 3, 2, 30
+"c:\Users\Akash Selvakumar\Documents\GitHub\Stocks_App\frontend\my-app\src\index.css", "CSS", 0, 0, 0, 0, 15, 0, 0, 0, 0, 3, 18
+"c:\Users\Akash Selvakumar\Documents\GitHub\Stocks_App\frontend\my-app\src\index.js", "JavaScript", 0, 0, 13, 0, 0, 0, 0, 0, 3, 4, 20
+"c:\Users\Akash Selvakumar\Documents\GitHub\Stocks_App\frontend\my-app\src\logo.svg", "XML", 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Akash Selvakumar\Documents\GitHub\Stocks_App\frontend\my-app\src\reportWebVitals.js", "JavaScript", 0, 0, 12, 0, 0, 0, 0, 0, 0, 2, 14
+"c:\Users\Akash Selvakumar\Documents\GitHub\Stocks_App\frontend\my-app\src\setupTests.js", "JavaScript", 0, 0, 1, 0, 0, 0, 0, 0, 4, 1, 6
+"Total", "-", 29932, 60, 246, 1, 45, 20, 223, 39, 135, 170, 30871
